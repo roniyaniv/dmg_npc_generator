@@ -1,5 +1,3 @@
-# TODO add default flow of 1 npc in case of no arguments
-
 import sys
 import random
 
